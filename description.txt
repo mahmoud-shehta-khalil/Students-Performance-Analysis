@@ -1,0 +1,12 @@
+Data Analysis project description :
+
+➢ Get dataset from internet . ex: Kaggle ---> ignore
+➢ Apply data cleaning and preprocessing (handling missing values …….)
+➢ Make data visualization (matplotlib or seaborn ….) --->
+➢ Train data using train-test-split and k-fold to compare between them --->
+➢ Apply suitable ML algorithm
+➢ ML model evaluation ( accuracy , recall , precision, f-score)
+
+➢ Bonus : Make python GUI , vanilla website or
+    make interface using streamlit to show
+    visualizations and model evaluation ( accuracy , recall , precision, f-score)  report.
